@@ -1,4 +1,4 @@
-<h1 align="center">COMP4050 - Community Barter Site</h1>
+<h1 align="center">COMP4050 - Community Barter Site using React and Python(Bottle)</h1>
 
 ## Download and Setup
 1. Clone the repository using the following:
